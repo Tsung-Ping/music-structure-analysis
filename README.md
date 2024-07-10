@@ -1,2 +1,2 @@
 # music-structure-analysis
-A deep learning method for music structure analysis (MSA) that aims to split a music signal into temporal segments and assign a function label (e.g., intro, verse, or chorus) to each of these segments.
+A deep learning method for music structure analysis (MSA) that aims to split a music signal into temporal segments and assign a function label (e.g., intro, verse, or chorus) to each of these segments. More details can be found in the paper: Tsung-Ping Chen and Kazuyoshi Yoshii, "Learning Multifaceted Self-Similarity over Time and Frequency for Music Structure Analysis," International Society of Music Information Retrieval Conference (ISMIR), November 2024.
